@@ -2617,6 +2617,14 @@ return {
     maintainers = { '@Philipp-M', '@amaanq' },
     tier = 2,
   },
+  zeek = {
+    install_info = {
+      revision = '9dfb48e4387fd504b5d5b3408562ddd79e7dc6cd',
+      url = 'https://github.com/zeek/tree-sitter-zeek',
+    },
+    maintainers = { '@signus', '@zeek' },
+    tier = 2,
+  },
   zig = {
     install_info = {
       revision = '6479aa13f32f701c383083d8b28360ebd682fb7d',
