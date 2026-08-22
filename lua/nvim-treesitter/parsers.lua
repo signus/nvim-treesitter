@@ -2609,6 +2609,14 @@ return {
     maintainers = { '@Hubro' },
     tier = 2,
   },
+  yara = {
+    install_info = {
+      revision = 'eb3ede203275c38000177f72ec0f9965312806ef',
+      url = 'https://github.com/egibs/tree-sitter-yara',
+    },
+    maintainers = { '@signus' },
+    tier = 2,
+  },
   yuck = {
     install_info = {
       revision = '6c60112b3b3e739fb1ca4a8ea4bea2b6ffe11318',
